@@ -24,8 +24,8 @@ Intiface® Central 是一个面向用户的实现了 Buttplug 协议的开源跨
 > https://intiface.com/central/
 
 借助 Intiface Central，设备（如郊狼）可以连接至应用了 Buttplug 协议的各类软件，比如游戏 Mod、视频播放器等。Intiface Central 将作为服务端，应用了 Buttplug 协议的各类软件通过 WebSocket 控制设备。
-> 一些已知的 Buttplug 项目：https://github.com/buttplugio/awesome-buttplug
-> 其中一个游戏 Mod（Deppart Prototype）：https://github.com/Ljzd-PRO/DeppartPrototypeHentaiPlayMod
+> - 一些已知的 Buttplug 项目：https://github.com/buttplugio/awesome-buttplug 
+> - 其中一个游戏 Mod（Deppart Prototype）：https://github.com/Ljzd-PRO/DeppartPrototypeHentaiPlayMod
 
 ## 下载
 
