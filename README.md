@@ -23,6 +23,10 @@ Buttplug 是一个开源的标准和软件项目，用于控制类似郊狼的�
 Intiface® Central 是一个面向用户的实现了 Buttplug 协议的开源跨平台软件，支持 Windows 10+, Linux, macOS, Android 以及 iOS。
 > https://intiface.com/central/
 
+借助 Intiface Central，设备（如郊狼）可以连接至应用了 Buttplug 协议的各类软件，比如游戏 Mod、视频播放器等。Intiface Central 将作为服务端，应用了 Buttplug 协议的各类软件通过 WebSocket 控制设备。
+> 一些已知的 Buttplug 项目：https://github.com/buttplugio/awesome-buttplug
+> 其中一个游戏 Mod（Deppart Prototype）：https://github.com/Ljzd-PRO/DeppartPrototypeHentaiPlayMod
+
 ## 下载
 
 - GitHub Actions 自动构建：https://github.com/Ljzd-PRO/intiface-central/actions/workflows/central.yml
