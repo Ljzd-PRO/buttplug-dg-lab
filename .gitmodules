@@ -1,0 +1,9 @@
+[submodule "buttplug"]
+	path = buttplug
+	url = https://github.com/Ljzd-PRO/buttplug
+[submodule "intiface-central"]
+	path = intiface-central
+	url = https://github.com/Ljzd-PRO/intiface-central
+[submodule "intiface-engine"]
+	path = intiface-engine
+	url = https://github.com/Ljzd-PRO/intiface-engine
