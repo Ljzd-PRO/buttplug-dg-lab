@@ -31,3 +31,8 @@ Intiface® Central 是一个面向用户的实现了 Buttplug 协议的开源跨
 
 - GitHub Actions 自动构建：https://github.com/Ljzd-PRO/intiface-central/actions/workflows/central.yml
 - Release 发行版：https://github.com/Ljzd-PRO/buttplug-dg-lab/releases
+
+## 计划
+- 欢迎提交 Pull request，适配 DG-Lab-V3
+- Intiface Central 的 GitHub Actions 自动构建 CI 脚本，无法成功构建 macOS App和 Android APK
+  > https://github.com/Ljzd-PRO/intiface-central/blob/main/.github/workflows/central.yml
