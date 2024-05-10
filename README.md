@@ -37,6 +37,13 @@ Intiface® Central 是一个面向用户的实现了 Buttplug 协议的开源跨
 - GitHub Actions 自动构建：https://github.com/Ljzd-PRO/intiface-central/actions/workflows/central.yml
 - Release 发行版：https://github.com/Ljzd-PRO/buttplug-dg-lab/releases
 
+## 主要代码
+
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/src/server/device/protocol/dg_lab_v2.rs
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/src/server/device/protocol/dg_lab_v2.rs
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/buttplug-device-config/buttplug-device-config.json
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/buttplug-device-config/buttplug-device-config.yml
+
 ## 计划
 - [x] 适配 DG-Lab-V3
 - [ ] DG-Lab-V2 缺少实际测试，欢迎测试使用，可以反馈在 Issues 页面
