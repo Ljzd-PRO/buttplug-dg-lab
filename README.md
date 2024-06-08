@@ -41,10 +41,10 @@ Intiface® Central 是一个面向用户的实现了 Buttplug 协议的开源跨
 
 - https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/src/server/device/protocol/dg_lab_v2.rs
 - https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/src/server/device/protocol/dg_lab_v3.rs
-- https://github.com/Ljzd-PRO/buttplug/buttplug-device-config/device-config-v2/buttplug-device-config-schema-v2.json
-- https://github.com/Ljzd-PRO/buttplug/buttplug-device-config/device-config-v2/buttplug-device-config-v2.yml
-- https://github.com/Ljzd-PRO/buttplug/buttplug-device-config/device-config-v3/buttplug-device-config-schema-v3.json
-- https://github.com/Ljzd-PRO/buttplug/buttplug-device-config/device-config-v3/buttplug-device-config-v3.yml
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/buttplug-device-config/device-config-v2/buttplug-device-config-schema-v2.json
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/buttplug-device-config/device-config-v2/buttplug-device-config-v2.yml
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/buttplug-device-config/device-config-v3/buttplug-device-config-schema-v3.json
+- https://github.com/Ljzd-PRO/buttplug/blob/master/buttplug/buttplug-device-config/device-config-v3/buttplug-device-config-v3.yml
 
 ## 计划
 - [x] 适配 DG-Lab-V3
